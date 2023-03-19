@@ -31,4 +31,8 @@ product-test-reports
 .github/test-matrix.yaml
 .github/test-pt-matrix.yaml
 .github/bin/redshift/.cluster-identifier
+<<<<<<< HEAD
 **/dependency-reduced-pom.xml
+=======
+!.run
+>>>>>>> 01080ff610 (add idea run configurations)
